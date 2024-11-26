@@ -10,4 +10,4 @@ print(f"Hola {nombre} {apellido}, Seleccionaste la ciudad: {ciudad}") #agregar f
 
 nombreCompleto =f"{nombre} {apellido}"
 
-print(f"Nombre completo {nombreCompleto}")
+print(f"Nombre completo: {nombreCompleto}")
